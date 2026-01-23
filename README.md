@@ -34,7 +34,7 @@ git push → GitHub Actions 자동 실행 → Hugo 빌드 → GitHub Pages 배�
 
 ```bash
 # 1. 프로젝트 폴더로 이동
-cd "/Users/leeeunmi/Documents/Obsidian Vault/MindBuildByACE/01_Projects/개인/blog/ratiertm-hugo"
+cd ratiertm-hugo
 
 # 2. 새 글 작성 (content/posts/ 폴더에 .md 파일 생성)
 
