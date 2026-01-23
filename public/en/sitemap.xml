@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/en/authors/</loc>
+    <loc>https://ratiertm.github.io/en/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="http://localhost:1313/authors/"
+      href="https://ratiertm.github.io/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/authors/"
+      href="https://ratiertm.github.io/en/authors/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://ratiertm.github.io/en/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="http://localhost:1313/"
+      href="https://ratiertm.github.io/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/"
+      href="https://ratiertm.github.io/en/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://ratiertm.github.io/en/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="http://localhost:1313/categories/"
+      href="https://ratiertm.github.io/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/categories/"
+      href="https://ratiertm.github.io/en/categories/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://ratiertm.github.io/en/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="http://localhost:1313/tags/"
+      href="https://ratiertm.github.io/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/tags/"
+      href="https://ratiertm.github.io/en/tags/"
     />
   </url>
 </urlset>
