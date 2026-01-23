@@ -18,6 +18,14 @@ summaryLength = 30
   enableCodeCopy = true
   showScrollToTop = true
 
+  [params.header]
+    layout = "basic"
+
+  [params.footer]
+    showMenu = true
+    showCopyright = true
+    showThemeAttribution = true
+
   [params.author]
     name = "마인드빌드"
     headline = "Web Developer from South Korea"
@@ -51,12 +59,6 @@ summaryLength = 30
     name = "Tags"
     pageRef = "tags"
     weight = 20
-  [[menu.main]]
-    identifier = "search"
-    name = "Search"
-    weight = 30
-    [menu.main.params]
-      action = "search"
 
 [taxonomies]
   tag = "tags"
