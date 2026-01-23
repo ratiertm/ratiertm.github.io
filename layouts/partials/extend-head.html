@@ -1,0 +1,5 @@
+<!-- Custom search scripts -->
+{{ $fuseJS := resources.Get "lib/fuse/fuse.min.js" | resources.Fingerprint "sha512" }}
+{{ $searchJS := resources.Get "js/search.js" | resources.Fingerprint "sha512" }}
+<script defer src="{{ $fuseJS.RelPermalink }}" integrity="{{ $fuseJS.Data.Integrity }}"></script>
+<script defer src="{{ $searchJS.RelPermalink }}" integrity="{{ $searchJS.Data.Integrity }}"></script>
