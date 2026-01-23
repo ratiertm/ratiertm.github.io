@@ -54,8 +54,9 @@ summaryLength = 30
   [[menu.main]]
     identifier = "search"
     name = "Search"
-    pageRef = "search"
     weight = 30
+    [menu.main.params]
+      action = "search"
 
 [taxonomies]
   tag = "tags"
