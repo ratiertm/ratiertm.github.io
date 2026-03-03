@@ -5,6 +5,7 @@ title = 'ratiertm'
 theme = 'blowfish'
 
 enableRobotsTXT = true
+buildFuture = true
 summaryLength = 30
 
 [pagination]
